@@ -1,6 +1,6 @@
 # MLP-Jupiters
 
-[5-6 лаба](https://colab.research.google.com/drive/1SHmWYb_Z3tHAPlzYiiLw2ORtf1ma1T6N#scrollTo=QBqclURB8qST)
+[5-6 лаба](https://colab.research.google.com/drive/1SHmWYb_Z3tHAPlzYiiLw2ORtf1ma1T6N?usp=sharing)
 
 
 Крч - я не знаю почему, но скопированный коллаб-блокнот ломается, как бы я его не грузил (я и в ручную это делал, и копировал на диск). Так что - вот ссылка на коллаб-блокнот на гугл диске, так как единственное решение, которое я нашел - очистить виджеты, а я полтора часа гонял модель. Иначе результат не показать
